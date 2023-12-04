@@ -1,6 +1,9 @@
 <?php require base_path('views/partials/head.php') ?>
+    <div class="min-h-full">
+    <div class="sticky top-0 z-10">
 <?php require base_path('views/partials/nav.php') ?>
 <?php require base_path('views/partials/banner.php') ?>
+    </div>
 
     <main>
         <div class="mx-auto max-w-7xl py-6 sm:px-6 lg:px-8">
@@ -115,5 +118,6 @@
 
         </div>
     </main>
+    </div>
 
 <?php require base_path('views/partials/footer.php') ?>
