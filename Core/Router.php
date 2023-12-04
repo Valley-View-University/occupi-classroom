@@ -2,6 +2,8 @@
 
 namespace Core;
 
+use Exception;
+
 class Router
 {
     /**
@@ -12,8 +14,9 @@ class Router
     // Routes methods definitions with their respective uri, and method
     public function add($method, $uri, $controller)
     {
+        $uri = rtrim($uri, '/');
         $this->routes[] = [
-            'uri' => $uri,
+            'uri' => explode('/', $uri),
             'controller' => $controller,
             'method' => $method
         ];
@@ -52,20 +55,31 @@ class Router
      */
     public function route($uri, $method)
     {
-        foreach ($this->routes as $route) {
-            if ($route['uri'] === $uri && $route['method'] === strtoupper($method)) {
-                return require base_path($route['controller']);
+        try {
+            foreach ($this->routes as $route) {
+                if ($route['method'] === strtoupper($method) && (count($route['uri']) === count($uri))) {
+                    $errors = 0;
+                    $parameters = [];
+
+                    foreach ($route['uri'] as $key => $value) {
+                        if (str_contains($value, ':')) {
+                            $parameters[] = $uri[$key];
+                        } else if ($value !== $uri[$key]) {
+                            $errors++;
+                        }
+                    }
+
+                    if ($errors === 0) {
+                        extract(['uri_param' => $parameters]);
+                        return require base_path($route['controller']);
+                    }
+                }
             }
+            abort();
+
+        } catch (Exception) {
+            abort();
         }
-        $this->abort();
-    }
 
-    protected function abort($code = 404)
-    {
-        http_response_code($code);
-
-        require base_path("views/{$code}.php");
-
-        die();
     }
 }
