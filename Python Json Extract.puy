@@ -1,0 +1,43 @@
+import csv
+import json
+import pandas as pd
+
+def extract_timetable(file_path):
+    with open(file_path, 'r') as csvfile:
+        csvreader = csv.reader(csvfile)
+        lecturer = []
+        course_id = []
+        course_name = []
+        hours = []
+        start_time = []
+        end_time = []
+        
+        next(csvreader) # skip the header
+        for row in csvreader:
+            lecturer.append(row[0])
+            course_id.append(row[1])
+            course_name.append(row[2])
+            hours.append(row[3])
+            start_time.append(row[4])
+            end_time.append(row[5])
+            
+        timetable_data = {
+            'lecturer': lecturer,
+            'course_id': course_id,
+            'course_name': course_name,
+            'hours': hours,
+            'start_time': start_time,
+            'end_time': end_time
+        }
+        
+        df = pd.DataFrame(timetable_data)
+        return df
+
+def convert_to_json(df, output_file):
+    df.to_json(output_file, orient='records', lines=True)
+
+input_file = 'timetable.csv.csv'
+output_file = 'timetable.json'
+
+df = extract_timetable(input_file)
+convert_to_json(df, output_file) 
