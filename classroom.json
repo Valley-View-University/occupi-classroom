@@ -1,0 +1,346 @@
+[
+    {
+        "department": "Computer Science",
+        "image": "[Image of Computer Science]",
+        "classrooms": [
+            {
+                "name": "CS1",
+                "capacity": 30,
+                "facilities": [
+                    "projector",
+                    "whiteboard",
+                    "network access"
+                ]
+            },
+            {
+                "name": "CS2",
+                "capacity": 25,
+                "facilities": [
+                    "projector",
+                    "whiteboard",
+                    "network access"
+                ]
+            },
+            {
+                "name": "CS3",
+                "capacity": 20,
+                "facilities": [
+                    "projector",
+                    "whiteboard",
+                    "network access"
+                ]
+            },
+            {
+                "name": "Lab 1",
+                "capacity": 40,
+                "facilities": [
+                    "computers",
+                    "projector",
+                    "network access"
+                ]
+            },
+            {
+                "name": "Lab 2",
+                "capacity": 40,
+                "facilities": [
+                    "computers",
+                    "network access",
+                    "projector"
+                ]
+            }
+        ]
+    },
+    {
+        "Department": "Saint Laryae Chapel",
+        "image": "[Image of Saint Laryae Chapel]",
+        "capacity": 200,
+        "facilities": [
+            "Projector",
+            "Sound System"
+        ]
+    },
+    {
+        "department": "Baobab",
+        "image": "[Image of Baobab ]",
+        "classrooms": [
+            {
+                "name": "Baobab Room1",
+                "capacity": 70,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "network access"
+                ]
+            },
+            {
+                "name": "Baobab Room2",
+                "capacity": 70,
+                "facilities": [
+                    "Projector",
+                    "network access",
+                    "Whiteboard"
+                ]
+            },
+            {
+                "name": "Baobab Room3",
+                "capacity": 70,
+                "facilities": [
+                    "Projector",
+                    "network access",
+                    "Whiteboard"
+                ]
+            },
+            {
+                "name": "Baobab Room4",
+                "capacity": 70,
+                "facilities": [
+                    "Projector",
+                    "network access",
+                    "Whiteboard"
+                ]
+            },
+            {
+                "name": "Baobab Room5",
+                "capacity": 70,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Baobab Room6",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            }
+        ]
+    },
+    {
+        "department": "Admin Block",
+        "image": "[Image of Administration Block ]",
+        "classrooms": [
+            {
+                "name": "Bulley Room1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Bulley Room2",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Bulley Room3",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Bulley Room4",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Bulley Room5",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            }
+        ]
+    },
+    {
+        "department": "Graduate School",
+        "image": "[Image of Graduate School ]",
+        "classrooms": [
+            {
+                "name": "GS1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS2",
+                "capacity": 25,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS3",
+                "capacity": 20,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS4",
+                "capacity": 15,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS5",
+                "capacity": 10,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS6",
+                "capacity": 8,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "American High School",
+        "image": "[Image of American High School AH101 classroom]",
+        "capacity": 100,
+        "classrooms": [
+            {
+                "capacity": 30,
+                "facilities": [
+                    "Whiteboard",
+                    "Network Access",
+                    "Projector"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "JJ Nortey Hall",
+        "image": "[Image of JJ Nortey]",
+        "capacity": 100,
+        "facilities": [
+            "Projector",
+            "Network Access",
+            "whiteboard"
+        ]
+    },
+    {
+        "name": "EG White",
+        "image": "[Image of EG White]",
+        "capacity": 100,
+        "facilities": [
+            "Projector",
+            "Network Access",
+            "whiteboard"
+        ]
+    },
+    {
+        "department": "Columbia",
+        "image": "[Image of Columbia Department ]",
+        "classrooms": [
+            {
+                "name": "CH1-1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Computers"
+                ]
+            },
+            {
+                "name": "CH3-1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "CH3-2",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "AC3-1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "AC1-1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Lab 1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "Lab 2",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "CH3-3",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            }
+        ]
+    }
+]
