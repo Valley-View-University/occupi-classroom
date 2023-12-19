@@ -1,7 +1,7 @@
 [
     {
         "department": "Computer Science",
-        "image": "[Image of Computer Science]",
+        "image": "./Computer Science.jpg",
         "classrooms": [
             {
                 "name": "CS1",
@@ -52,7 +52,7 @@
     },
     {
         "Department": "Saint Laryae Chapel",
-        "image": "[Image of Saint Laryae Chapel]",
+        "image": "./Saint Laryae Chapel.jpg",
         "capacity": 200,
         "facilities": [
             "Projector",
@@ -121,7 +121,7 @@
     },
     {
         "department": "Admin Block",
-        "image": "[Image of Administration Block ]",
+        "image": "./Admin Block.jpg",
         "classrooms": [
             {
                 "name": "Bulley Room1",
@@ -171,8 +171,8 @@
         ]
     },
     {
-        "department": "Graduate School",
-        "image": "[Image of Graduate School ]",
+        "department": "Graduate school",
+        "image": "./Graduate school.jpg",
         "classrooms": [
             {
                 "name": "GS1",
@@ -231,8 +231,8 @@
         ]
     },
     {
-        "name": "American High School",
-        "image": "[Image of American High School AH101 classroom]",
+        "name": "American High ",
+        "image": "./ American High.jpg",
         "capacity": 100,
         "classrooms": [
             {
@@ -247,7 +247,7 @@
     },
     {
         "name": "JJ Nortey Hall",
-        "image": "[Image of JJ Nortey]",
+        "image": "./JJ Nortey Hall.jpg",
         "capacity": 100,
         "facilities": [
             "Projector",
@@ -257,7 +257,7 @@
     },
     {
         "name": "EG White",
-        "image": "[Image of EG White]",
+        "image": "./EG White.jgp",
         "capacity": 100,
         "facilities": [
             "Projector",
@@ -267,7 +267,7 @@
     },
     {
         "department": "Columbia",
-        "image": "[Image of Columbia Department ]",
+        "image": "./Columbia.jpg",
         "classrooms": [
             {
                 "name": "CH1-1",
