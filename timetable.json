@@ -1,0 +1,742 @@
+[
+    {
+        "lecturer_name": "J. Abandoh-Sam",
+        "course_code": "INFT346",
+        "course_name": "Software Development Life Cycle",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "T",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "J. Abandoh-Sam",
+        "course_code": "COSC447",
+        "course_name": "Software Engineering",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "T",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "J. Abandoh-Sam",
+        "course_code": "INFT439",
+        "course_name": "Cloud Computing Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "T",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "J. Abandoh-Sam",
+        "course_code": "COSC429",
+        "course_name": "Cloud Computing Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "T",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Prof. W. Oblitey",
+        "course_code": "COSC352",
+        "course_name": "Computer Security",
+        "credit_hours": 3,
+        "classroom": "Business Lab",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Prof. W. Oblitey",
+        "course_code": "INFT452",
+        "course_name": "Enterprise Information Security",
+        "credit_hours": 3,
+        "classroom": "Business Lab",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Prof. W. Oblitey",
+        "course_code": "COSC115",
+        "course_name": "Introduction to Computer Science I",
+        "credit_hours": "NC",
+        "classroom": "CS Lab",
+        "day": "T",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Prof. W. Oblitey",
+        "course_code": "CSCD115",
+        "course_name": "Introduction to Computer Science I",
+        "credit_hours": "NC",
+        "classroom": "CS Lab",
+        "day": "T",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Prof. W. Oblitey",
+        "course_code": "MATH171",
+        "course_name": "Introductory Mathematics for Computer Science",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "M",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "INFT425",
+        "course_name": "Mobile Application Development [IT, BEIT]",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "T",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "COSC328",
+        "course_name": "Mobile Application Development [CS, BIS]",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "M",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "INFT410",
+        "course_name": "Internet-Based Application Systems Development",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "COSC360",
+        "course_name": "Internet-based Application Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "BBIS310",
+        "course_name": "Internet-based Application Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "COSC470",
+        "course_name": "Computer & Cyber Forensics",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "M. Asare Tetteh",
+        "course_code": "INFT470",
+        "course_name": "Computer & Cyber Forensics",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "J. Kingsley Arthur",
+        "course_code": "COSC455",
+        "course_name": "introduction to Artificial Intelligence and Machine Learning [CS]",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "J. Kingsley Arthur",
+        "course_code": "COSC455",
+        "course_name": "introduction to Artificial Intelligence and Machine Learning [IT, BEIT]",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "J. Kingsley Arthur",
+        "course_code": "BBIS351",
+        "course_name": "Expert Systems and Artificial Intelligence",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "W. Ronky Amber-Doh",
+        "course_code": "COSC280",
+        "course_name": "Information Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "F",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "W. Ronky Amber-Doh",
+        "course_code": "BBIS110",
+        "course_name": "Introduction to Business Information Systems",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "F",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "W. Ronky Amber-Doh",
+        "course_code": "INFT350",
+        "course_name": "Managing Information Technology Projects",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "W. Ronky Amber-Doh",
+        "course_code": "INFT142",
+        "course_name": "Critical Thinking and Practical Reasoning",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Prof. D. Damoah",
+        "course_code": "INFT245",
+        "course_name": "Entrepreneurship and Human Development",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Prof. D. Damoah",
+        "course_code": "COSC245",
+        "course_name": "Entrepreneurship and Human Development",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Prof. D. Damoah",
+        "course_code": "COSC260",
+        "course_name": "Structured Systems Analysis and Design",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "E. Okoe",
+        "course_code": "COSC271",
+        "course_name": "Data Communication & Computer Network I",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "TH",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "E. Okoe",
+        "course_code": "CSCD271",
+        "course_name": "Computer Network Engineering",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "TH",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "E. Okoe",
+        "course_code": "INFT446",
+        "course_name": "Systems and Network Administration",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "E. Okoe",
+        "course_code": "COSC124",
+        "course_name": "Procedural Programming [CS, BMET]",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "E. Okoe",
+        "course_code": "COSC124",
+        "course_name": "Procedural Programming [IT, BEIT, BIS]",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "A. Salako",
+        "course_code": "INFT331",
+        "course_name": "331 Multimedia Application Systems Development I",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "F",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "A. Salako",
+        "course_code": "BBIS331",
+        "course_name": "Multimedia Application System",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "F",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "A. Salako",
+        "course_code": "INFT360",
+        "course_name": "Web Applications Systems Development [IT, BEIT]",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "TH",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "A. Salako",
+        "course_code": "COSC360",
+        "course_name": "Web Application Development [CS, BIS]",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "A. Salako",
+        "course_code": "COSC224",
+        "course_name": "Object-Oriented Programming [CS]",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "M",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "John O. Asirifi",
+        "course_code": "PHYS103",
+        "course_name": "Physics",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "M",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "COSC230",
+        "course_name": "Database Systems Design",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "CSCD230",
+        "course_name": "Database Systems Design",
+        "credit_hours": 3,
+        "classroom": "CS1",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "BBIS213",
+        "course_name": "IT for Business (MOS)",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "F",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "COSC211",
+        "course_name": "Computer Organization",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "CSCD211",
+        "course_name": "Computer Organization",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Nikoi S. Nii",
+        "course_code": "INFT211",
+        "course_name": "Computer Organization and Architecture",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "INFT115",
+        "course_name": "Information Technology Foundation I",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "M",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "INFT115",
+        "course_name": "Introduction to Information Technology",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "M",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "COSC113",
+        "course_name": "Elements of Progamming [CS, BMET]",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "CSCD113",
+        "course_name": "Elements of Programming [CS]",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "M",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "COSC113",
+        "course_name": "Elements of Progamming [IT, BIS, BEIT]",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "T",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "BBIS435",
+        "course_name": "IT Governance and Strategy for Business",
+        "credit_hours": 3,
+        "classroom": "CS Lab",
+        "day": "F",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "R. Amponsah",
+        "course_code": "COSC117",
+        "course_name": "Fundamentals of Computing Skills",
+        "credit_hours": 3,
+        "classroom": "GS1&2",
+        "day": "F",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "C. Adu Boahen",
+        "course_code": "COSC361",
+        "course_name": "Data Structures & Algorithm I",
+        "credit_hours": 3,
+        "classroom": NaN,
+        "day": "F",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "C. Adu Boahen",
+        "course_code": "INFT361",
+        "course_name": "Design and Theories of Algorithms",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "F",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "C. Adu Boahen",
+        "course_code": "COSC255",
+        "course_name": "Operating Systems",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "TH",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "C. Adu Boahen",
+        "course_code": "CSCD256",
+        "course_name": "Operating Systems",
+        "credit_hours": 3,
+        "classroom": "CS3",
+        "day": "TH",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "D. Martin",
+        "course_code": "COSC257",
+        "course_name": "Computer Architecture & Microprocessor Systems",
+        "credit_hours": 3,
+        "classroom": "CS Lab",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "D. Martin",
+        "course_code": "BBIS338",
+        "course_name": "Enterprise Systems",
+        "credit_hours": 3,
+        "classroom": "CS Lab",
+        "day": "M",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "S. Yao Sebuabe",
+        "course_code": "COSC331",
+        "course_name": "Computer Graphics I",
+        "credit_hours": 3,
+        "classroom": "CS Lab",
+        "day": "T",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "S. Yao Sebuabe",
+        "course_code": "INFT232",
+        "course_name": "Computer Hardware and Maintenance",
+        "credit_hours": 3,
+        "classroom": "CS Lab",
+        "day": "W",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "S. Yao Sebuabe",
+        "course_code": "COSC224",
+        "course_name": "Object-Oriented Programming [IT, BIS, BEIT]",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "M",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. G. Biney",
+        "course_code": "MATH111",
+        "course_name": "College Algebra & Trigonometry [Sec A]",
+        "credit_hours": 3,
+        "classroom": "MET 101",
+        "day": "T",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. G. Biney",
+        "course_code": "MATH141",
+        "course_name": "Algebra",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "W",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. G. Biney",
+        "course_code": "MATH181",
+        "course_name": "Business Mathematics",
+        "credit_hours": 3,
+        "classroom": "BR2",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Dr. G. Biney",
+        "course_code": "BSAD330",
+        "course_name": "Quantitative Methods for Business Decision",
+        "credit_hours": 3,
+        "classroom": "BR6",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "Dr. G. Biney",
+        "course_code": "STAT101",
+        "course_name": "Introduction to Statistics",
+        "credit_hours": 3,
+        "classroom": "CH3-3",
+        "day": "W",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "Dr. Louis Asiedu",
+        "course_code": "MATH211",
+        "course_name": "Calculus II [Sec A]",
+        "credit_hours": 3,
+        "classroom": "MET 101",
+        "day": "M",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. Louis Asiedu",
+        "course_code": "MATH311",
+        "course_name": "Probability and Statistics [Sec A]",
+        "credit_hours": 3,
+        "classroom": "MET 101",
+        "day": "W",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. A. Adu Sackey",
+        "course_code": "MATH182",
+        "course_name": "Introductory Calculus",
+        "credit_hours": 3,
+        "classroom": "BR2",
+        "day": "F",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "Dr. A. Adu Sackey",
+        "course_code": "COSC210",
+        "course_name": "Numerical Methods",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "T",
+        "time_start": "2:00pm",
+        "time_end": "4:30pm"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH120",
+        "course_name": "General Mathematics [Sec A]",
+        "credit_hours": 3,
+        "classroom": "CH3-1",
+        "day": "TH",
+        "time_start": "7:00am",
+        "time_end": "9:30am"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH120",
+        "course_name": "General Mathematics [HAC Sec A]",
+        "credit_hours": 3,
+        "classroom": "BR3",
+        "day": "TH",
+        "time_start": "4:00pm",
+        "time_end": "6:30pm"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH120",
+        "course_name": "General Mathematics [EVE Sec A]",
+        "credit_hours": 3,
+        "classroom": "CH3-1",
+        "day": "W",
+        "time_start": "7:00pm",
+        "time_end": "9:30pm"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH121",
+        "course_name": "College Algebra",
+        "credit_hours": 3,
+        "classroom": "GS1&2",
+        "day": "TH",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH282",
+        "course_name": "Introduction to Statistics and Probability",
+        "credit_hours": 3,
+        "classroom": "CS2",
+        "day": "T",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    },
+    {
+        "lecturer_name": "O. Osei Tutu",
+        "course_code": "MATH101",
+        "course_name": "Algebra and Trigonometry",
+        "credit_hours": 3,
+        "classroom": "CH3-3",
+        "day": "W",
+        "time_start": "10:00am",
+        "time_end": "12:30pm"
+    }
+]
