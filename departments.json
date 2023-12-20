@@ -1,7 +1,7 @@
 [
     {
-        "department": "Computer Science",
-        "image": "./Computer Science.jpg",
+        "name": "Computer Science",
+        "image": "departments/Computer Science.jpg",
         "classrooms": [
             {
                 "name": "CS1",
@@ -31,7 +31,7 @@
                 ]
             },
             {
-                "name": "Lab 1",
+                "name": "CS Lab",
                 "capacity": 40,
                 "facilities": [
                     "computers",
@@ -51,8 +51,8 @@
         ]
     },
     {
-        "Department": "Saint Laryae Chapel",
-        "image": "./Saint Laryae Chapel.jpg",
+        "name": "Saint Laryae Chapel",
+        "image": "departments/Seth Laryae Chapel.jpg",
         "capacity": 200,
         "facilities": [
             "Projector",
@@ -60,11 +60,11 @@
         ]
     },
     {
-        "department": "Baobab",
-        "image": "[Image of Baobab ]",
+        "name": "Baobab",
+        "image": "departments/Baobab.jpg",
         "classrooms": [
             {
-                "name": "Baobab Room1",
+                "name": "BR1",
                 "capacity": 70,
                 "facilities": [
                     "Projector",
@@ -73,7 +73,7 @@
                 ]
             },
             {
-                "name": "Baobab Room2",
+                "name": "BR2",
                 "capacity": 70,
                 "facilities": [
                     "Projector",
@@ -82,7 +82,7 @@
                 ]
             },
             {
-                "name": "Baobab Room3",
+                "name": "BR3",
                 "capacity": 70,
                 "facilities": [
                     "Projector",
@@ -91,7 +91,7 @@
                 ]
             },
             {
-                "name": "Baobab Room4",
+                "name": "BR4",
                 "capacity": 70,
                 "facilities": [
                     "Projector",
@@ -100,7 +100,7 @@
                 ]
             },
             {
-                "name": "Baobab Room5",
+                "name": "BR5",
                 "capacity": 70,
                 "facilities": [
                     "Projector",
@@ -109,7 +109,7 @@
                 ]
             },
             {
-                "name": "Baobab Room6",
+                "name": "BR6",
                 "capacity": 50,
                 "facilities": [
                     "Projector",
@@ -120,8 +120,8 @@
         ]
     },
     {
-        "department": "Admin Block",
-        "image": "./Admin Block.jpg",
+        "name": "Admin Block",
+        "image": "departments/Admin Block.jpg",
         "classrooms": [
             {
                 "name": "Bulley Room1",
@@ -171,11 +171,20 @@
         ]
     },
     {
-        "department": "Graduate school",
-        "image": "./Graduate school.jpg",
+        "name": "Graduate school",
+        "image": "departments/Graduate school.jpg",
         "classrooms": [
             {
                 "name": "GS1",
+                "capacity": 50,
+                "facilities": [
+                    "Projector",
+                    "Whiteboard",
+                    "Network Access"
+                ]
+            },
+            {
+                "name": "GS1&2",
                 "capacity": 50,
                 "facilities": [
                     "Projector",
@@ -232,7 +241,7 @@
     },
     {
         "name": "American High ",
-        "image": "./ American High.jpg",
+        "image": "departments/American High.jpg",
         "capacity": 100,
         "classrooms": [
             {
@@ -247,7 +256,7 @@
     },
     {
         "name": "JJ Nortey Hall",
-        "image": "./JJ Nortey Hall.jpg",
+        "image": "departments/JJ Nortey Hall.jpg",
         "capacity": 100,
         "facilities": [
             "Projector",
@@ -257,7 +266,7 @@
     },
     {
         "name": "EG White",
-        "image": "./EG White.jgp",
+        "image": "departments/EG White.jpg",
         "capacity": 100,
         "facilities": [
             "Projector",
@@ -266,8 +275,8 @@
         ]
     },
     {
-        "department": "Columbia",
-        "image": "./Columbia.jpg",
+        "name": "Columbia",
+        "image": "departments/Columbia.jpg",
         "classrooms": [
             {
                 "name": "CH1-1",
