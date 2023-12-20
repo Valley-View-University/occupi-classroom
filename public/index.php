@@ -19,6 +19,12 @@ $router = new Router();
 $routes = require base_path('routes.php');
 
 $uri = parse_url($_SERVER['REQUEST_URI'])['path'];
+
+if ($uri === '/'){
+    header('Location: /departments', true, 308);
+    exit();
+}
+
 $uri = explode('/', rtrim($uri, '/'));
 $method = $_POST['_method'] ?? $_SERVER['REQUEST_METHOD'];
 $router->route($uri, $method);
