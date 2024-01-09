@@ -504,7 +504,7 @@
         "course_code": "COSC361",
         "course_name": "Data Structures & Algorithm I",
         "credit_hours": 3,
-        "classroom": NaN,
+        "classroom": "",
         "day": "F",
         "time_start": "10:00am",
         "time_end": "12:30pm"
