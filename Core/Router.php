@@ -11,7 +11,23 @@ class Router
      * @var array
      */
     protected array $routes = [];
-    // Routes methods definitions with their respective uri, and method
+
+    /**
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
+    public function get($uri, $controller)
+    {
+        $this->add('GET', $uri, $controller);
+    }
+
+    /**
+     * @param $method
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
     public function add($method, $uri, $controller)
     {
         $uri = rtrim($uri, '/');
@@ -22,26 +38,42 @@ class Router
         ];
     }
 
-    public function get($uri, $controller)
-    {
-        $this->add('GET', $uri, $controller);
-    }
-
+    /**
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
     public function post($uri, $controller)
     {
         $this->add('POST', $uri, $controller);
     }
+
+    /**
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
 
     public function delete($uri, $controller)
     {
         $this->add('DELETE', $uri, $controller);
     }
 
+    /**
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
     public function patch($uri, $controller)
     {
         $this->add('PATCH', $uri, $controller);
     }
 
+    /**
+     * @param $uri
+     * @param $controller
+     * @return void
+     */
     public function put($uri, $controller)
     {
         $this->add('PUT', $uri, $controller);
@@ -76,9 +108,13 @@ class Router
                 }
             }
             abort();
+//            print_(false, 'Endpoint not found');
+//            abort();
 
         } catch (Exception) {
             abort();
+//            print_(false, 'Internal server error');
+//            abort(500);
         }
 
     }
